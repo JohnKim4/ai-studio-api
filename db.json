@@ -5,7 +5,7 @@
     "name": "Starlin",
     "cc_balance": "23.13",
     "due_date": "6/27/2022",
-    "last_digits": 2398
+    "last_digits": "2398"
   },
   {
     "id": "2",
@@ -14,7 +14,7 @@
     "name": "Tilda",
     "cc_balance": "321.54",
     "due_date": "8/26/2022",
-    "last_digits": 7821
+    "last_digits": "7821"
   },
   {
     "id": "3",
@@ -23,7 +23,7 @@
     "name": "Julianna",
     "cc_balance": "81.81",
     "due_date": "7/16/2022",
-    "last_digits": 1234,
+    "last_digits": "1234",
     "currency": "$"
   },
   {
