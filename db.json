@@ -7,7 +7,7 @@
           "due_date": "seventh day of every month", "currency": "$"},
           {"id":5,"email":"john.kim@vonage.com","phone":"821030010915","name":"John Kim","cc_balance":"106.55","delivery_date":"8/31/2022", "last_digits": "1234",
           "due_date": "5th day of every month", "currency": "$"},
-          {"id":6,"email":"johnjeongwoo.kim@vonage.com","phone":"00617322260790","name":"VBC - John Kim","cc_balance":"116.55","delivery_date":"12/1/2022", "last_digits": "1234",
+          {"id":6,"email":"johnjeongwoo.kim@vonage.com","phone":"0617322260790","name":"VBC - John Kim","cc_balance":"116.55","delivery_date":"12/1/2022", "last_digits": "1234",
           "due_date": "1st day of every month", "currency": "$"}
   ]
 }
